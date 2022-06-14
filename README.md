@@ -7,7 +7,7 @@ I'm Maikon Albuquerque,  I'm a System Analist at Rede D'Or, and I've been workin
 
 ## ⚡ Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikonmorais&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikonmorais&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ⚡ Technologies
 
