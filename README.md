@@ -5,10 +5,6 @@ I'm Maikon Albuquerque,  I'm a System Analist at Rede D'Or, and I've been workin
 [![Twitter Follow](https://img.shields.io/twitter/follow/alba_developer?style=social)](https://twitter.com/alba_developer)
 [![Linkedin: Maikon](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/loiane/)](https://www.linkedin.com/in/maikonmorais/)
 
-## ⚡ Stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maikonmorais&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 ## ⚡ Technologies
 
 These are some of the technologies and tools that I work with:
