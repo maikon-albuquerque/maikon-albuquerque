@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Solving my bugs since 2009<br>📚 I'm currently learning NextJS and Go<br>🎯 Goals: Mastering Go</p>
+<p align="left">✨ Solving my bugs since 2009<br>📚 I'm currently learning Go<br>🎯 Goals: Mastering Go</p>
 
 ###
 
